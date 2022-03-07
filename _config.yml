@@ -67,15 +67,15 @@ content:
        # quote: >
        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          -	Python 3, fastapi, asyncio, pytest, ORM skills (sqlalchemy) and django;
+          -	Python 3, fastapi, asyncio, pytest, ORM skills (sqlalchemy) and <mark>django</mark>;
           -	SQL language, knowledge in PostgreSQL;
-          -	Expirience in Ansible, AWS, Kubernetes, Docker and Terraform
+          -	Expirience in Ansible, AWS, Kubernetes, <mark>Docker</mark> and Terraform
           -	English at the level of reading technical documentation, fiction and listening YouTube;
           -	HTML, CSS: at the level of creating simple pages, native Javascript (ES6 standard);
           -	great experience with Git and gh;
-          -	Extensive experience in using Linux OS, in particular - Ubuntu and Kali Linux;
+          -	Extensive experience in using <mark>Linux</mark> OS, in particular - Ubuntu and Kali Linux;
           -	I have an understanding and basic skills in android development;
-          -	I have knowledge and skills in information security, good at cryptography;
+          -	I have knowledge and skills in <mark>cybersecurity</mark>, good at cryptography;
           - I was pass CCNA course
           
 
