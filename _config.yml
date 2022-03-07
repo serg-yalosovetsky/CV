@@ -22,7 +22,7 @@ github_username:  serg_yalosovetsky
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: serhii-yalosovetskyi
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -57,13 +57,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#         additional_links:
+#           - title:  sproogen/modern-resume-theme
+#             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -101,8 +98,8 @@ content:
             -	Participated in defining business requirements for many projects
             
       - layout: left
-        title: Zeus Electronics
-        link: https://zeuselectronics.eu/
+        title: Vodafone Ukraine
+        link: https://www.vodafone.ua/
         # link_text: boringcompany.com
         sub_title: Cybersecurity Specialist 
         caption: October 2018 - March 2021
