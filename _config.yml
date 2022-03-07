@@ -70,15 +70,14 @@ content:
           -	Python 3, fastapi, asyncio, pytest, ORM skills (sqlalchemy) and django;
           -	SQL language, knowledge in PostgreSQL;
           -	Expirience in Ansible, AWS, Kubernetes, Docker and Terraform
-          -	English at the level of reading technical documentation;
+          -	English at the level of reading technical documentation, fiction and listening YouTube;
           -	HTML, CSS: at the level of creating simple pages, native Javascript (ES6 standard);
-          -	Systems-Git: branches, working with remote repositories;
+          -	great experience with Git and gh;
           -	Extensive experience in using Linux OS, in particular - Ubuntu and Kali Linux;
           -	I have an understanding and basic skills in android development;
-          -	I have knowledge and skills in information security;
+          -	I have knowledge and skills in information security, good at cryptography;
           - I was pass CCNA course
           
-
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
