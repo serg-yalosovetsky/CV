@@ -22,10 +22,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+```
 [Link](https://github.com/serg-yalosovetsky/CV/edit/master/CV_ru_python_developer.md) and ![Image](src)
 [Link](https://github.com/serg-yalosovetsky/CV/edit/master/CV_en_python_developer.md) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
