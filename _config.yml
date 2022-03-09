@@ -68,7 +68,7 @@ content:
        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           -	Python 3, fastapi, asyncio, pytest, ORM skills (sqlalchemy) and <mark>django</mark>;
-          -	SQL language, knowledge in PostgreSQL;
+          -	Experience with SQL, Redis, knowledge in PostgreSQL;
           -	Expirience in Ansible, AWS, Kubernetes, <mark>Docker</mark> and Terraform
           -	English at the level of reading technical documentation, fiction and listening YouTube;
           -	HTML, CSS: at the level of creating simple pages, native Javascript (ES6 standard);
