@@ -126,7 +126,8 @@ content:
       - layout: left
         title: NTUU KPI2
         caption: 2014 - 20182
-        sub_title: Bachelor, Syste2ms Engineering, Faculty of Informatics and Computer Engineering
+        sub_title: |
+          - Bachelor, Syste2ms Engineering, Faculty of Informatics and Computer Engineering
 
 
 
