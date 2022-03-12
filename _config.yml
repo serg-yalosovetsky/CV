@@ -9,7 +9,7 @@ version: 2
 name: Serhii Yalosovetskyi
 title: Python Developer
 email: serg.yalosovetsky@gmail.com
-phone: +380(95)224-00-16 ("tel:+380952240016")
+phone: +380(95)224-00-16 (<a href="tel:5554280940"></a>)
 website: https://serg-yalosovetsky.github.io/CV/
 
 # Dark Mode (true/false/never)
@@ -35,9 +35,9 @@ additional_links:
 - title: telegram
   icon: fab fa-telegram 
   url: https://t.me/syalosovetskyi
-- title: another link
-  icon: fab fa-telegram (https://fontawesome.com/icons/telegram?s=brands)
-  url: https://t.me/syalosovetskyi
+# - title: another link
+#   icon: fab fa-telegram (https://fontawesome.com/icons/telegram?s=brands)
+#   url: https://t.me/syalosovetskyi
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
