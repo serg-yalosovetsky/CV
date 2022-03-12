@@ -46,9 +46,9 @@ linkedin_username: serhii-yalosovetskyi
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/1559807208393.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Serhii and I'm a python developer. As well as developer I also have experience in cybersecurity and Linux administration. I'm interested in the position of the python developer. I strive to broaden my horizons, I am glad to have the opportunity to develop in related fields. The priority schedule is full-time or remote work. Development experience is 2 year.
+  I have experience in cybersecurity and Linux administration. I strive to broaden my horizons, I am glad to have the opportunity to develop in related fields. The priority schedule is full-time or remote work. Development experience is 2 year.
 
   I am most skilled in: <mark>Python</mark> and <mark>Linux</mark>
 
@@ -68,15 +68,15 @@ content:
        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           -	Python 3, fastapi, asyncio, pytest, ORM skills (sqlalchemy) and <mark>django</mark>;
-          -	Experience with SQL, Redis, knowledge in PostgreSQL;
-          -	Expirience in Ansible, AWS, Kubernetes, <mark>Docker</mark> and Terraform
-          -	English at the level of reading technical documentation, fiction and listening YouTube;
+          -	Experience with SQL, Redis, PostgreSQL;
+          -	Experience in Ansible, AWS, Kubernetes, <mark>Docker</mark> and Terraform
+          -	Intermediate English;
           -	HTML, CSS: at the level of creating simple pages, native Javascript (ES6 standard);
-          -	great experience with Git and gh;
+          -	Experience with VCS Git and gh;
           -	Extensive experience in using <mark>Linux</mark> OS, in particular - Ubuntu and Kali Linux;
           -	I have an understanding and basic skills in android development;
           -	I have knowledge and skills in <mark>cybersecurity</mark>, good at cryptography;
-          - I was pass CCNA course
+          - Experience in web and mobile pentesting with Burpsuite, Wireshark and Metasploit
           
 
   - title: Experience # Title for the section
@@ -91,10 +91,10 @@ content:
 #         quote: >
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+            -	Participated in defining business requirements for many projects
             -	Support and development of Fyuzd application – audio streaming service with full audio stream synchronization;
             -	Support and development of Allgram application – secure chat;
             -	Website and REST API testing;
-            -	Participated in defining business requirements for many projects
             
       - layout: left
         title: Vodafone Ukraine
@@ -105,12 +105,12 @@ content:
 #         quote: >
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          -	Participated in defining business requirements for many projects
           -	Development of REST application services for security testing multiple APIs;
           -	Participated in the development of Vodafone's internal security standards based on international security standards ISO 27001 and OWASP Application Security Verification Standard
-          -	Maintained and improved IT infrastructure security with McAfee Endpoint Security and VMware ONE UEM
+          -	Maintained and improved IT infrastructure security with McAfee Endpoint Security and VMware ONE UEM, have experience in networking
           -	Website and mobile application security testing, first of all – My Vodafone
           -	Scripting in VBA and bash to automate the routine
-          -	Participated in defining business requirements for many projects
 
 
   - title: Education # Title for the section
