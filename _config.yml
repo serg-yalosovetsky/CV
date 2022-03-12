@@ -123,7 +123,7 @@ content:
   - title: Pet projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: text
+      - layout: top-middle
         title: CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
         caption: Services for generating CAPTCHA 
         description: |
