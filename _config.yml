@@ -121,15 +121,15 @@ content:
         sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
 
 
-  - title: Pet projects
-   layout: text
-   content: | # this will include new lines to allow paragraphs
-     Services for generating CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
-     - Use Russian or English text, with random peek two or three sequence words
-     - Random background color, random color of letters, with good readability
-     - Radial gradient for additional complexity of automatic recognition
-     - Random font type and size
-     - Random font tilt
+#   - title: Pet projects
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Services for generating CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
+#      - Use Russian or English text, with random peek two or three sequence words
+#      - Random background color, random color of letters, with good readability
+#      - Radial gradient for additional complexity of automatic recognition
+#      - Random font type and size
+#      - Random font tilt
 
 #     Look at this cool image  
  #    ![Example](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png "Example")
