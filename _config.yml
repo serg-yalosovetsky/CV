@@ -33,11 +33,11 @@ linkedin_username: serhii-yalosovetskyi
 # Additional icon links
 additional_links:
 - title: telegram
-  icon: fa-brands fa-telegram 
+  icon: fab fa-telegram 
   url: https://t.me/syalosovetskyi
-# - title: another link
-#   icon: fab fa-telegram (https://fontawesome.com/icons/telegram?s=brands)
-#   url: https://t.me/syalosovetskyi
+- title: another link
+  icon: fab fa-telegram (https://fontawesome.com/icons/telegram?s=brands)
+  url: https://t.me/syalosovetskyi
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
