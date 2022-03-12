@@ -120,7 +120,7 @@ content:
         caption: 2014 - 2018
         sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
 
-  - title: Education2 # Title for the section
+  - title: Pet projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
