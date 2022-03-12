@@ -127,13 +127,13 @@ content:
         title: [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
         caption: Services for generating CAPTCHA 
         description: |
-          [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
+          
            - Use Russian or English text, with random peek two or three sequence words
            - Random background color, random color of letters, with good readability
            - Radial gradient for additional complexity of automatic recognition
            - Random font type and size
            - Random font tilt
-
+# [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
 
 #  - title: A Little More About Me
 #     layout: text
