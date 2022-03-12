@@ -120,13 +120,15 @@ content:
         caption: 2014 - 2018
         sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
 
- - title: Pet # Title for the section
+  - title: Education2 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Services for generating CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
-        caption: Python
-        sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
+        title: NTUU KPI2
+        caption: 2014 - 20182
+        sub_title: Bachelor, Syste2ms Engineering, Faculty of Informatics and Computer Engineering
+
+
 
 #  - title: A Little More About Me
 #     layout: text
