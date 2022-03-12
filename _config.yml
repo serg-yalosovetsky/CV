@@ -124,9 +124,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: NTUU KPI2
-        caption: 2014 - 20182
-        sub_title: |
+        title: CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
+        caption: Services for generating CAPTCHA 
+        description: |
           - Bachelor, Syste2ms Engineering, Faculty of Informatics and Computer Engineering
 
 
