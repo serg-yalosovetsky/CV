@@ -20,7 +20,7 @@ darkmode: false
 github_username:  serg_yalosovetsky
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+telegram_username: syalosovetskyi
 # flickr_username: jekyll
 #instagram_username: jameswgrant
 linkedin_username: serhii-yalosovetskyi
@@ -31,13 +31,13 @@ linkedin_username: serhii-yalosovetskyi
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+additional_links:
+- title: telegram
+  icon: fa-brands fa-telegram 
+  url: https://t.me/syalosovetskyi
 # - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+#   icon: fab fa-telegram (https://fontawesome.com/icons/telegram?s=brands)
+#   url: https://t.me/syalosovetskyi
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
