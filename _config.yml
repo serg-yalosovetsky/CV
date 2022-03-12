@@ -49,9 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/1559807208393.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have experience in cybersecurity and Linux administration. I strive to broaden my horizons, I am glad to have the opportunity to develop in related fields. The priority schedule is full-time or remote work. Development experience is 2 year.
-
-  I am most skilled in: <mark>Python</mark> and <mark>Linux</mark>
+  Besides experience in software development, I also have experience in cybersecurity and Linux administration. I strive to broaden my horizons, I am glad to have the opportunity to develop in related fields. The priority schedule is full-time or remote work. Development experience is 2 year.
 
 content:
   - title: Skills # Title for the section
