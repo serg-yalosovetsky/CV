@@ -91,7 +91,7 @@ content:
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             -	Participated in defining business requirements for many projects
-            -	Support and development of Fyuzd application – audio streaming service with full audio stream synchronization;
+            -	Development and deployment of Fyuzd application – audio streaming service with full audio stream synchronization;
             -	Support and development of Allgram application – secure chat;
             -	Website and REST API testing;
             
@@ -108,7 +108,7 @@ content:
           -	Development of REST application services for security testing multiple APIs;
           -	Participated in the development of Vodafone's internal security standards based on international security standards ISO 27001 and OWASP Application Security Verification Standard
           -	Maintained and improved IT infrastructure security with McAfee Endpoint Security and VMware ONE UEM, have experience in networking
-          -	Website and mobile application security testing, first of all – My Vodafone
+          -	Website and mobile application security testing, first of all – My Vodafone. For pentesting used apktool, MobSF, Nessus, Qualys, sqlmap, Burpsuite, OWASP ZAP, sqlmap, Wireshark,   
           -	Scripting in VBA and bash to automate the routine
 
 
