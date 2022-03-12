@@ -120,10 +120,18 @@ content:
         caption: 2014 - 2018
         sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
 
- - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+ - title: Pet # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Services for generating CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
+        caption: Python
+        sub_title: Bachelor, Systems Engineering, Faculty of Informatics and Computer Engineering
+
+#  - title: A Little More About Me
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 #      - Rock climbing
 #      - Gaming
 #      - Knitting
