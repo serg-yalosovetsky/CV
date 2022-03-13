@@ -135,12 +135,11 @@ content:
           - Random font tilt
 
           
-          <details><summary>Example of CAPTCHA image </summary>
+          <details><summary><br> <big>Example of CAPTCHA image </big> </summary>
           <p>
-          ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
+          <img src="https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true" alt="Example of CAPTCHA image">
           </p>
           </details>
-#         ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
         
 
 # Footer
