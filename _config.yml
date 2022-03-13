@@ -135,7 +135,17 @@ content:
           - Random font tilt
 
           Look at this cool image  
-          
+          <details><summary>CLICK ME</summary>
+          <p>
+
+          #### We can hide anything, even code!
+
+              ```ruby
+                puts "Hello World"
+              ```
+
+          </p>
+          </details>
 #         ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
         
 
