@@ -132,14 +132,16 @@ content:
           - Radial gradient for additional complexity of automatic recognition
           - Random font type and size
           - Random font tilt
+
+          
+          Look at this cool image  
           ```html
             <h2>Example of code</h2>
             <h1>Example of code</h1>
           ```
-          
-          Look at this cool image  
           ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
-
+        caption: October 2018 - March 2021
+        
 
 # Footer
 footer_show_references: true
