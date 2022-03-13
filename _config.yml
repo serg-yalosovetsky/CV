@@ -136,10 +136,7 @@ content:
           Look at this cool image  
          
           ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
-        caption:  ```html
-            <details><h2>Example of code</h2>
-            <h1>Example of code</h1></details>
-          ```
+        caption:  ```html <details><h2>Example of code</h2> <h1>Example of code</h1></details> ```
         
 
 # Footer
