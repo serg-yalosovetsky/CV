@@ -132,6 +132,21 @@ content:
           - Radial gradient for additional complexity of automatic recognition
           - Random font type and size
           - Random font tilt
+          ```html
+            <h2>Example of code</h2>
+
+            <pre>
+                <div class="container">
+                    <div class="block two first">
+                        <h2>Your title</h2>
+                        <div class="wrap">
+                        //Your content
+                        </div>
+                    </div>
+                </div>
+            </pre>
+          ```
+          
           Look at this cool image  
           ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
 #         - [CAPTCHA] (https://github.com/serg-yalosovetsky/captcha)
