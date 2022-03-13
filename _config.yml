@@ -124,7 +124,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: CAPTCHA (https://github.com/serg-yalosovetsky/captcha)
+        title: CAPTCHA
         description: |
           Services for generating [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
           - Use Russian or English text, with random peek two or three sequence words
@@ -133,7 +133,7 @@ content:
           - Random font type and size
           - Random font tilt
           Look at this cool image  
-          ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png)
+          ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
 #         - [CAPTCHA] (https://github.com/serg-yalosovetsky/captcha)
 # [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
 
