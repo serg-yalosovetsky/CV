@@ -134,16 +134,10 @@ content:
           - Random font type and size
           - Random font tilt
 
-          Look at this cool image  
-          <details><summary>CLICK ME</summary>
+          
+          <details><summary>Example of CAPTCHA image </summary>
           <p>
-
-          #### We can hide anything, even code!
-
-              ```ruby
-                puts "Hello World"
-              ```
-
+          ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
           </p>
           </details>
 #         ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
