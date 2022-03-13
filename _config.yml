@@ -125,6 +125,7 @@ content:
     content:
       - layout: top-middle
         title: CAPTCHA
+        caption:  ```html <h2>Example of code</h2> <h1>Example of code</h1> ```
         description: |
           Services for generating [CAPTCHA](https://github.com/serg-yalosovetsky/captcha)
           - Use Russian or English text, with random peek two or three sequence words
@@ -136,7 +137,6 @@ content:
           Look at this cool image  
          
           ![image](https://github.com/serg-yalosovetsky/captcha/blob/main/captcha.png?raw=true)
-        caption:  ```html <details><h2>Example of code</h2> <h1>Example of code</h1></details> ```
         
 
 # Footer
