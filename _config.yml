@@ -11,6 +11,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
+google_site_verification: "Ek0viIJr71-HdkqLU5XvcMRTtE4x655Xd2K4QJkMywg" # Verify ownership through Search Console  
 
 email: serg.yalosovetsky@gmail.com # Allow visitors to contact you
