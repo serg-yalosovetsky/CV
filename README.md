@@ -4,7 +4,7 @@
 📞 **Phone:** +38 095 2240016  
 📧 **Email:** [serg.yalosovetsky@gmail.com](mailto:serg.yalosovetsky@gmail.com)  
 📱 **Telegram:** [@ozzzimandiya](https://t.me/ozzzimandiya)  
-🌐 **GitHub:** [https://github.com/syalosovetskyi](https://github.com/syalosovetskyi)  
+🌐 **GitHub:** [https://github.com/serg-yalosovetsky](https://github.com/syalosovetskyi)  
 
 ---
 
@@ -108,9 +108,9 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 ---
 
 ## 🌱 **Projects**
-### ✅ [Captcha Project](https://github.com/sergyalosovetsky/captcha)
+### ✅ [Captcha Project](https://github.com/serg-yalosovetsky/captcha)
 
-### ✅ [2048 Game](https://github.com/syalosovetskyi/2048)
+### ✅ [2048 Game](https://github.com/serg-yalosovetsky/2048)
 
 ### ✅ [UnitedHelp Project (Inactive)](https://github.com/serg-yalosovetsky/united_help)
 
@@ -119,11 +119,6 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 
 ### ✅ [Portfolio Website](https://arbolev.pro)  
 - A **SvelteKit** project with a landing page, portfolio, about page, request forms (Telegram integration), and a blog.
-
----
-
-## **Achievements**
-- Rated 5⭐ freelancer on **Fiverr**, completing 200+ hours of data analysis projects in R and Python.
 
 ---
 
@@ -136,4 +131,4 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 ## 📞 **Contact**
 📧 [serg.yalosovetsky@gmail.com](mailto:serg.yalosovetsky@gmail.com)  
 📱 [@ozzzimandiya](https://t.me/ozzzimandiya)  
-🌐 [GitHub Profile](https://github.com/syalosovetskyi)  
+🌐 [GitHub Profile](https://github.com/serg-yalosovetsky/)  
