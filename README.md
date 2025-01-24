@@ -102,16 +102,18 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 - Developed backend views and models for the **[UnitedHelp Project](https://github.com/serg-yalosovetsky/united_help)**.  
 - Built a **Flutter-based mobile app** for volunteers.  
 - Defined business requirements for UnitedHelp systems.  
-- **Note:** The project has been inactive for two years.
 
 ---
 
 ## 🌱 **Projects**
 ### ✅ [Captcha Project](https://github.com/serg-yalosovetsky/captcha)
+- A Python-based tool for generating and verifying captchas to enhance security for web applications.
 
 ### ✅ [2048 Game](https://github.com/serg-yalosovetsky/2048)
+- Implementation of the classic 2048 game on python, used TUI.
 
 ### ✅ [UnitedHelp Project (Inactive)](https://github.com/serg-yalosovetsky/united_help)
+- A backend and mobile solution for volunteer operations, featuring task management and reporting capabilities.
 
 ### ✅ [SongLyrics App](https://github.com/serg-yalosovetsky/songs)  
 - A Flutter-based mobile app to search for song lyrics offline.
