@@ -1,11 +1,10 @@
 # **Serhii Yalosovetskyi**
 **Full Stack Software Engineer**  
 **Nationality:** Ukrainian  
-📞 **Phone:** +38 095 2240016  
 📧 **Email:** [serg.yalosovetsky@gmail.com](mailto:serg.yalosovetsky@gmail.com)  
 📱 **Telegram:** [@ozzzimandiya](https://t.me/ozzzimandiya)  
 🌐 **GitHub:** [https://github.com/serg-yalosovetsky](https://github.com/syalosovetskyi)  
-
+🔗 LinkedIn: [https://www.linkedin.com/in/serhii-yalosovetskyi/](https://www.linkedin.com/in/serhii-yalosovetskyi/)
 ---
 
 ## **Summary** 
