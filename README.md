@@ -3,7 +3,8 @@
 📧 **Email:** [serg.yalosovetsky@gmail.com](mailto:serg.yalosovetsky@gmail.com)  
 📱 **Telegram:** [@ozzzimandiya](https://t.me/ozzzimandiya)  
 🌐 **GitHub:** [https://github.com/serg-yalosovetsky](https://github.com/syalosovetskyi)  
-🔗 LinkedIn: [https://www.linkedin.com/in/serhii-yalosovetskyi/](https://www.linkedin.com/in/serhii-yalosovetskyi/)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/serhii-yalosovetskyi/](https://www.linkedin.com/in/serhii-yalosovetskyi/)
+
 📃 CV: [pdf](https://raw.githubusercontent.com/serg-yalosovetsky/CV/refs/heads/main/CV.pdf)
 ---
 
