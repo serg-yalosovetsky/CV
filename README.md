@@ -50,7 +50,7 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### 🤖 **Machine Learning**
-- Experience with **TensorFlow** and **CNNs** for image classification tasks.
+- Experience with **fast.ai** and **pytorch** for image classification tasks.
 
 ---
 
