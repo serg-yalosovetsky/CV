@@ -92,6 +92,7 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skille
 - Created security standards aligned with **OWASP Mobile Security Guide** and **OWASP Web App Security Guide**.  
 - Enhanced infrastructure security using McAfee Endpoint Security and VMware ONE UEM.  
 - Conducted penetration testing for websites and mobile apps.  
+- Created captcha to preventing DDOS attacks.
 - Automated daily tasks with Bash and VBA scripting.  
 - Collaborated on creating business requirements for multiple projects.
 
