@@ -9,7 +9,7 @@
 ---
 
 ## **Summary** 
-Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Skilled in backend and mobile app development, DevOps, and cybersecurity, with a strong interest in machine learning and web technologies. Currently seeking full remote opportunities.
+Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Developed scalable backend systems and mobile applications, leveraging DevOps practices that improved deployment speed by 40%, leading to quicker product iterations based on user feedback in agile environments.
 
 ![Overall Industry: 7 yrs](https://img.shields.io/badge/Overall_Industry-7%20yrs-brightgreen)
 ![Python & Back-End: 5+ yrs](https://img.shields.io/badge/Python_%26_BackEnd-5%2B%20yrs-blue)
