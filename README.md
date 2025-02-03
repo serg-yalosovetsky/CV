@@ -74,51 +74,49 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ### **Software Developer**  
 **Techwhirl Infotech**  
 *October 2024 – January 23, 2025*  
-- Engineered a robust backend for a Telegram-based crypto exchange leveraging FastAPI and Piccolo, streamlining transaction speed to under 2 seconds while ensuring compliance with evolving blockchain regulations. 
-- Collaborated closely with cross-functional teams to draft detailed business requirements which directly guided feature implementation; this effort contributed to achieving key milestones in under two months despite shifting project constraints.
-
+- Developed a robust backend for a Telegram-based crypto exchange using FastAPI and Piccolo, reducing transaction times to under 2 seconds while maintaining adherence to dynamic blockchain regulations.
+- Collaborated with cross-functional teams to define precise business requirements, enabling the rapid achievement of key milestones in just two months despite evolving project parameters.
 
 ---
 
 ### **Software Developer**  
 **Zeus Electronics**  
 *2021 – October 2024*  
-- Orchestrated new architectural frameworks within Fyuzd, achieving a remarkable decrease in downtime incidents from six per month to one while ensuring seamless integration with existing workflows across development teams.
-- Upgraded legacy structures into scalable cloud-native architectures while ensuring adherence to industry standards, driving performance improvements that led directly toward achieving company goals regarding customer satisfaction ratings surpassing benchmarks set one year prior. 
-- Executed rigorous performance and reliability testing on REST APIs, identifying critical bottlenecks; facilitated enhancements leading to a 50% increase in response times across all endpoints for improved user experience.
-- Configured Kubernetes environments for Allgram CI/CD.  
-- Identified key functionalities needed across three different applications; collaborated with stakeholders to refine specifications that resulted in a 25% reduction in development time during initial phases.
+- Redesigned architectural frameworks within Fyuzd, reducing monthly downtime incidents from six to one and ensuring smooth integration with existing workflows.
+- Transformed legacy systems into scalable, cloud-native architectures while aligning with industry standards, directly supporting the company's strategic objectives.
+- Executed comprehensive performance and reliability tests on REST APIs, pinpointing bottlenecks and driving a 50% acceleration in response times across endpoints.
+- Configured Kubernetes environments to streamline Allgram CI/CD pipelines.
+- Analyzed requirements across three applications and collaborated with stakeholders to refine specifications, achieving a 25% reduction in initial development time.
 
 ---
 
 ### **Cybersecurity Specialist**  
 **Vodafone Ukraine**  
 *2018 – 2021*  
-- Crafted comprehensive API security assessments, conducting over 30 simulated attacks to evaluate system integrity; findings directly informed the creation of new guidelines that improved compliance with OWASP standards.
-- Established comprehensive security standards aligned with OWASP Mobile Security and Web App Security Guides, ensuring robust protection against vulnerabilities; directly contributed to reducing critical incident response times by 40% within the team. 
-- Fortified organizational cyber defense strategies with rigorous application of McAfee Endpoint Security and VMware ONE UEM; contributed to safeguarding sensitive data across three major platforms for over 5,000 users daily.  
-- Implemented advanced scanning techniques during system evaluations identifying significant flaws within the architecture structure—contributed directly to resolving key issues impacting service delivery for thousands of daily interactions with customers.
-- Instituted rigorous security protocols including a custom-built captcha system designed to neutralize DDOS attacks and maintain consistent service availability for over 50,000 interactions each day in the mobile application.
-- Transformed daily workflows through automation via Bash and VBA scripting, resulting in more efficient task management that saved an estimated 60+ work hours each month across critical system assessments. 
-- Spearheaded the creation of comprehensive business requirements for five major cybersecurity projects, ensuring alignment with strategic goals and enhancing project clarity by facilitating cross-departmental collaboration among stakeholders.
+- Conducted in-depth API security assessments by performing over 30 simulated attacks to evaluate system robustness and inform new guidelines aligned with OWASP standards.
+- Established security protocols based on OWASP Mobile Security and Web App Security Guides, reducing critical incident response times by 40%.
+- Strengthened the organization’s cyber defense strategy by implementing tools such as McAfee Endpoint Security and VMware ONE UEM, protecting sensitive data for over 5,000 daily users.
+- Deployed advanced scanning methods to identify structural flaws, resolving key issues that impacted service delivery for thousands of daily interactions.
+- Developed a custom captcha system to neutralize DDOS attacks, ensuring uninterrupted service for more than 50,000 daily mobile interactions.
+- Automated daily workflows with Bash and VBA scripting, saving over 60 work hours monthly.
+- Led the formulation of business requirements for five major cybersecurity projects, ensuring alignment with strategic goals and enhancing cross-department collaboration.
 
 ---
 
 ## 🌱 **Projects**
 **United Help Ukraine**  
 ### ✅ [UnitedHelp](https://github.com/serg-yalosovetsky/united_help)
-- Built foundational infrastructure supporting both web and mobile applications specifically aimed at enhancing volunteer interactions; enabled real-time tracking which improved assignment fulfillment by exceeding expectations through completing hundreds of tasks swiftly.
-- Formulated innovative solutions around existing challenges faced at UnitedHelp while developing new backend features; prioritized tasks based on urgency leading directly to fixing three major causes impacting user satisfaction.
-- Designed and deployed a user-friendly Flutter mobile platform specifically tailored for volunteers, allowing efficient tracking of assignments while increasing overall operational efficiency by reducing coordination time by one-third. 
+- Established the infrastructure for both web and mobile applications designed to enhance volunteer coordination, with real-time tracking that accelerated task completion.
+- Crafted innovative backend features to address key challenges at UnitedHelp, prioritizing tasks to resolve three critical issues affecting user satisfaction.
+- Designed and launched a user-friendly Flutter mobile platform, streamlining assignment tracking and reducing coordination time by one-third.
 
 ### ✅ [Captcha Project](https://github.com/serg-yalosovetsky/captcha)
-- A Python-based tool for generating and verifying captchas to enhance security for web applications.
+- Developed a Python tool for generating and verifying captchas, bolstering web application security.
 
 ### ✅ [SongLyrics App](https://github.com/serg-yalosovetsky/songs)  
-- Crafted intuitive features in a Flutter app that allow users to easily search and store song lyrics offline; identified key enhancements based on reviews leading to fixes for three major performance issues.
-
+- Engineered features in a Flutter app that allow users to search and store song lyrics offline, resolving three major performance challenges based on user feedback.
 ### ✅ [Portfolio Website](https://arbolev.pro)  
-- A **SvelteKit** project with a landing page, portfolio, about page, request forms (Telegram integration), and a blog.
+- Built a SvelteKit-powered site featuring a landing page, portfolio, about section, request forms (with Telegram integration), and a blog.
 
 ---
 
