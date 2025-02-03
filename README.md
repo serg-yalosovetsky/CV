@@ -107,6 +107,7 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 
 ### ✅ [SongLyrics App](https://github.com/serg-yalosovetsky/songs)  
 - Engineered features in a Flutter app that allow users to search and store song lyrics offline, resolving three major performance challenges based on user feedback.
+
 ### ✅ [Portfolio Website](https://arbolev.pro)  
 - Built a SvelteKit-powered site featuring a landing page, portfolio, about section, request forms (with Telegram integration), and a blog.
 
