@@ -66,7 +66,7 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ### **Software Developer**  
 **Techwhirl Infotech**  
 *October 2024 – January 23, 2025*  
-- Developed a robust backend for a Telegram-based crypto exchange using FastAPI and Piccolo, reducing transaction times to under 2 seconds while maintaining adherence to dynamic blockchain regulations.
+- Engineered a robust backend for a Telegram-based crypto exchange using FastAPI and Piccolo, reducing transaction times to under 2 seconds while maintaining adherence to evolving blockchain regulations.
 - Collaborated with cross-functional teams to define precise business requirements, enabling the rapid achievement of key milestones in just two months despite evolving project parameters.
 
 ---
@@ -85,13 +85,13 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ### **Cybersecurity Specialist**  
 **Vodafone Ukraine**  
 *2018 – 2021*  
-- Conducted in-depth API security assessments by performing over 30 simulated attacks to evaluate system robustness and inform new guidelines aligned with OWASP standards.
+- Performed in-depth API security assessments by performing over 30 simulated attacks to evaluate system robustness and inform new guidelines aligned with OWASP standards.
 - Established security protocols based on OWASP Mobile Security and Web App Security Guides, reducing critical incident response times by 40%.
-- Strengthened the organization’s cyber defense strategy by implementing tools such as McAfee Endpoint Security and VMware ONE UEM, protecting sensitive data for over 5,000 daily users.
-- Deployed advanced scanning methods to identify structural flaws, resolving key issues that impacted service delivery for thousands of daily interactions.
-- Developed a custom captcha system to neutralize DDOS attacks, ensuring uninterrupted service for more than 50,000 daily mobile interactions.
+- Fortified the organization’s cyber defense strategy by implementing tools such as McAfee Endpoint Security and VMware ONE UEM, protecting sensitive data for over 5,000 daily users.
+- Implemented advanced scanning methods to identify structural flaws, resolving key issues that impacted service delivery for thousands of daily interactions.
+- Created a custom captcha system to neutralize DDOS attacks, ensuring uninterrupted service for more than 50,000 daily mobile interactions.
 - Automated daily workflows with Bash and VBA scripting, saving over 60 work hours monthly.
-- Led the formulation of business requirements for five major cybersecurity projects, ensuring alignment with strategic goals and enhancing cross-department collaboration.
+- Spearheaded the formulation of business requirements for five major cybersecurity projects, ensuring alignment with strategic goals and enhancing cross-department collaboration.
 
 ---
 
