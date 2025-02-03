@@ -5,7 +5,7 @@
 🌐 **GitHub:** [https://github.com/serg-yalosovetsky](https://github.com/syalosovetskyi)  
 🔗 **LinkedIn**: [https://www.linkedin.com/in/serhii-yalosovetskyi/](https://www.linkedin.com/in/serhii-yalosovetskyi/)
 
-📃 CV: [pdf](https://raw.githubusercontent.com/serg-yalosovetsky/CV/refs/heads/main/CV.pdf)
+📃 CV: [pdf](https://raw.githubusercontent.com/serg-yalosovetsky/CV/refs/heads/main/Serhii_Yalosovetskyi_Resume.pdf)
 ---
 
 ## **Summary** 
