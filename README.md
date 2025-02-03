@@ -61,14 +61,6 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 
 ---
 
-## 🎓 **Education**
-**Bachelor's Degree in Informatics and Computer Engineering**  
-**National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**  
-*2014 – 2018*  
-- Developed a CNN project to diagnose liver diseases.
-
----
-
 ## 🔬 **Research & Work Experience**
 
 ### **Software Developer**  
@@ -120,9 +112,16 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 
 ---
 
+## 🎓 **Education**
+**Bachelor's Degree in Informatics and Computer Engineering**  
+**National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**  
+*2014 – 2018*  
+
+---
+
 ## **Language Skills**
-- **Ukrainian:** Native.  
 - **English:** B2 (Upper-intermediate).  
+- **Ukrainian:** Native.  
 
 ---
 
