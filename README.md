@@ -63,6 +63,15 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 
 ## 🔬 **Research & Work Experience**
 
+### **Senior Full Stack Python + DevOps**  
+**Hermes Logistics Technologies**  
+*April 2025 – November, 2025*  
+- Spearheaded the complete migration of the entire backend infrastructure from legacy Magic XPA systems to FastAPI, resulting in a modern, scalable, and high-performance architecture.
+- Architected and implemented comprehensive CI/CD pipelines in Azure DevOps, fully automating testing and deployment processes to streamline release cycles.
+- Designed a secure and scalable deployment infrastructure on AWS ECS, incorporating automated rollback strategies to ensure failproof releases and high availability.
+  
+---
+
 ### **Software Developer**  
 **Techwhirl Infotech**  
 *October 2024 – January 23, 2025*  
