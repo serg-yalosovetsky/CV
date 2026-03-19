@@ -6,10 +6,9 @@ description: Full Stack Software Engineer - crafting seamless digital experience
 
 show_downloads: false # Fix spelling
 
-theme: jekyll-theme-minimal 
-
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 google_site_verification: "Ek0viIJr71-HdkqLU5XvcMRTtE4x655Xd2K4QJkMywg" # Verify ownership through Search Console  
 
