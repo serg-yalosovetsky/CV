@@ -9,16 +9,26 @@
 ---
 
 ## **Summary** 
-Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Developed scalable backend systems and mobile applications, leveraging DevOps practices that improved deployment speed by 40%, leading to quicker product iterations based on user feedback in agile environments.
+Full Stack Software Engineer specializing in Python, AI/LLM systems, Flutter, and Svelte. Currently building production-grade AI applications featuring local LLM inference, RAG pipelines, and semantic search over real-world data. Developed scalable backend systems and mobile applications, leveraging DevOps practices that improved deployment speed by 40%, leading to quicker product iterations based on user feedback in agile environments.
 
 ![Overall Industry: 7 yrs](https://img.shields.io/badge/Overall_Industry-7%20yrs-brightgreen)
 ![Python & Back-End: 5+ yrs](https://img.shields.io/badge/Python_%26_BackEnd-5%2B%20yrs-blue)
+![AI/LLM Systems: 1 yr](https://img.shields.io/badge/AI%2FLLM_Systems-1%20yr%20(active)-purple)
 ![Software Development: 7 yrs](https://img.shields.io/badge/Software_Development-7%20yrs-yellow)
 ![Mobile (Flutter): 2-3 yrs](https://img.shields.io/badge/Mobile_%28Flutter%29-2--3%20yrs-orange)
 
 ---
 
 ## **Technical Skills**
+
+### 🤖 **AI & LLM Systems**
+![vLLM](https://img.shields.io/badge/vLLM-6B26FF?style=for-the-badge&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-4B0082?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0A9EDC?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![fast.ai](https://img.shields.io/badge/fast.ai-FF2D20?style=for-the-badge&logo=fastai&logoColor=white)
 
 ### 🛠 **Back-End**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,10 +67,6 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ### 🧪 **Testing & Frameworks**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### 🤖 **Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![fast.ai](https://img.shields.io/badge/fast.ai-FF2D20?style=for-the-badge&logo=fastai&logoColor=white) 
-
 ---
 
 ## 🔬 **Research & Work Experience**
@@ -98,7 +104,7 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 *2018 – 2021*  
 - Performed in-depth API security assessments by performing over 30 simulated attacks to evaluate system robustness and inform new guidelines aligned with OWASP standards.
 - Established security protocols based on OWASP Mobile Security and Web App Security Guides, reducing critical incident response times by 40%.
-- Fortified the organization’s cyber defense strategy by implementing tools such as McAfee Endpoint Security and VMware ONE UEM, protecting sensitive data for over 5,000 daily users.
+- Fortified the organization's cyber defense strategy by implementing tools such as McAfee Endpoint Security and VMware ONE UEM, protecting sensitive data for over 5,000 daily users.
 - Implemented advanced scanning methods to identify structural flaws, resolving key issues that impacted service delivery for thousands of daily interactions.
 - Created a custom captcha system to neutralize DDOS attacks, ensuring uninterrupted service for more than 50,000 daily mobile interactions.
 - Automated daily workflows with Bash and VBA scripting, saving over 60 work hours monthly.
@@ -107,6 +113,15 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ---
 
 ## 🌱 **Projects**
+
+### ✅ [Summagram](https://github.com/serg-yalosovetsky/summagram) *(2025 – present)*
+AI assistant for personal Telegram history, built end-to-end as a production system:
+- Designed an ETL pipeline that ingests full Telegram chat history into PostgreSQL with incremental sync and real-time SSE progress streaming.
+- Built a hybrid RAG retrieval engine combining semantic search (ChromaDB embeddings) with lexical full-text search and NLP-based query expansion.
+- Integrated local LLM inference via vLLM and SGLang (text + vision models) with automatic GPU/CPU fallback and dynamic model orchestration.
+- Implemented an NLP entity extraction pipeline (persons, topics, dates) enabling intelligent topic-based chat routing when no explicit contact is named.
+- Stack: Python, FastAPI, PostgreSQL, ChromaDB, vLLM, SGLang, Docker, Next.js.
+
 **United Help Ukraine**  
 ### ✅ [UnitedHelp](https://github.com/serg-yalosovetsky/united_help)
 - Established the infrastructure for both web and mobile applications designed to enhance volunteer coordination, with real-time tracking that accelerated task completion.
@@ -140,4 +155,4 @@ Full Stack Software Engineer specializing in Python, Flutter, and Svelte. Develo
 ## 📞 **Contact**
 📧 [serg.yalosovetsky@gmail.com](mailto:serg.yalosovetsky@gmail.com)  
 📱 [@ozzzimandiya](https://t.me/ozzzimandiya)  
-🌐 [GitHub Profile](https://github.com/serg-yalosovetsky/)  
+🌐 [GitHub Profile](https://github.com/serg-yalosovetsky/)
